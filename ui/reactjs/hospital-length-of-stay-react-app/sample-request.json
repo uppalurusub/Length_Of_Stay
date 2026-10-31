@@ -1,0 +1,24 @@
+{
+  "admission_source": "Referral",
+  "admission_type": "Emergency",
+  "age": 45,
+  "bmi": 27.4,
+  "comorbidity_count": 2,
+  "discharge_disposition": "Home",
+  "gender": "Male",
+  "hospital_department": "Cardiology",
+  "insurance_type": "Private",
+  "previous_admissions": 1,
+  "primary_diagnosis": "Pneumonia",
+  "severity_score": 7.5,
+  "smoker": "No",
+  "glucose": 190,
+  "marital_status": "Married",
+  "oxygen_saturation": 96,
+  "hemoglobin": 12.7,
+  "creatinine": 2.86,
+  "blood_pressure": 160,
+  "temperature": 98,
+  "heart_rate": 99
+}
+

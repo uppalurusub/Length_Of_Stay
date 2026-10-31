@@ -1,0 +1,46 @@
+.prediction-card{
+    margin-top:35px;
+    border-radius:15px;
+}
+
+.metric-card{
+    height:100%;
+    border-radius:12px;
+}
+
+.los-card{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+    min-height:220px;
+}
+
+.metric-title{
+    color:#616161;
+    font-weight:600;
+    margin-bottom:15px;
+}
+
+.los-value{
+    font-size:64px;
+    font-weight:700;
+    color:#1976d2;
+}
+
+.metric-unit{
+    font-size:20px;
+    color:#757575;
+}
+
+.metric-row{
+    display:flex;
+    gap:18px;
+    align-items:center;
+}
+
+.label{
+    font-size:14px;
+    color:#757575;
+    margin-bottom:4px;
+}
